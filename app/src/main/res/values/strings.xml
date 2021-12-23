@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Custom Dialog</string>
+
+    <string name="sub_text">Please login to redeem \n your promo code</string>
+    <string name="login">Login</string>
+    <string name="main_text">Have a Promo Code ?</string>
+    <string name="show_dialog">Show Dialog</string>
+</resources>
